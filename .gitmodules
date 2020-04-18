@@ -1,0 +1,9 @@
+[submodule "DibujoColaborativoWebSocketsCliente"]
+	path = DibujoColaborativoWebSocketsCliente
+	url = https://github.com/TaniaAlvarezDiaz/DibujoColaborativoWebSocketsCliente
+[submodule "DibujoColaborativoWebSocketsServidor"]
+	path = DibujoColaborativoWebSocketsServidor
+	url = https://github.com/TaniaAlvarezDiaz/DibujoColaborativoWebSocketsServidor
+[submodule "SlidesDibujoColaborativoWebSockets"]
+	path = SlidesDibujoColaborativoWebSockets
+	url = https://github.com/TaniaAlvarezDiaz/SlidesDibujoColaborativoWebSockets
