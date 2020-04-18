@@ -15,10 +15,10 @@ Para ejecutar el proyecto seguir los siguientes pasos:
    * git clone --recurse-submodules https://github.com/TaniaAlvarezDiaz/DibujoColaborativoWebSockets.git
 
 3. Ejecutar la consola de Node.js.
-   * Ir a la ruta donde se encuentra el servidor.
+   * Ir a la ruta donde se encuentra el servidor (**DibujoColaborativoWebSocketsServidor**).
    * Ejecutar "node server.js".
    
-4. Ir a la ruta donde se encuentra el cliente.
+4. Ir a la ruta donde se encuentra el cliente (**DibujoColaborativoWebSocketsCliente**).
    * Abrir el fichero "index.html" en el navegador Chrome.
       * Abrir tantas pestañas como clientes se deseen.
    
