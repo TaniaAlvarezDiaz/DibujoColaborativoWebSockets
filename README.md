@@ -12,7 +12,9 @@ Para ejecutar el proyecto seguir los siguientes pasos:
 1. Descargar [Node.js](https://nodejs.org/es/)
 
 2. Descargar el proyecto:
-   * git clone --recurse-submodules https://github.com/TaniaAlvarezDiaz/DibujoColaborativoWebSockets.git
+   * git clone https://github.com/TaniaAlvarezDiaz/DibujoColaborativoWebSockets.git
+   * Acceder a la carpeta y ejecutar:
+      * git submodule update --init
 
 3. Ejecutar la consola de Node.js.
    * Ir a la ruta donde se encuentra el servidor (**DibujoColaborativoWebSocketsServidor**).
